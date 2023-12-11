@@ -2,3 +2,4 @@ my second file in gits.
 second line.
 4
 gfdgfdth
+addin this line from git 
