@@ -7,3 +7,14 @@ adding this line from VS
 adding another line ftron vsc
 
 
+=======
+I am meading this changes in file
+
+i an adding another line from git hub
+
+>>>>>>> 0e025d41d1274e706278f458c77eaf5a644d3862
+
+public void login ()
+{
+    this is a login code
+}
