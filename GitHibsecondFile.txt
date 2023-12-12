@@ -12,3 +12,9 @@ I am meading this changes in file
 
 i an adding another line from git hub
 
+
+public void logout()
+{
+this is code for logout
+}
+
