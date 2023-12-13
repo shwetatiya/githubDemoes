@@ -12,9 +12,18 @@ I am meading this changes in file
 
 i an adding another line from git hub
 
+<<<<<<< HEAD
 >>>>>>> 0e025d41d1274e706278f458c77eaf5a644d3862
 
 public void login ()
 {
     this is a login code
 }
+=======
+
+public void logout()
+{
+this is code for logout
+}
+
+>>>>>>> f39894cf2e13ea1760d8648d5b2ab0630d61caa0
